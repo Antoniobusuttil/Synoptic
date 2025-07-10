@@ -1,0 +1,2 @@
+# Synoptic
+MCAST website task 1.1 &amp; 1.2 – including glossary of terms and internet services analysis.
