@@ -10,6 +10,22 @@ MCAST website design Task 2.1 (the survey) - with the google form link and the P
 - PDF Link - [MCAST Website Redesign Survey - Google Forms.pdf](https://github.com/user-attachments/files/21187003/MCAST.Website.Redesign.Survey.-.Google.Forms.pdf)
 
 
+MCAST website design Task 2.1 (survey responses) - All Survey Responses in a PowerPoint with the PDF Link.
+
+- PDF Link - [Survey responses.pdf](https://github.com/user-attachments/files/21204392/Survey.responses.pdf)
+
+
+MCAST website design Task 2.1 (justification) - The Justification with the PDF Link.
+
+- PDF Link - [Justification.pdf](https://github.com/user-attachments/files/21204409/Justification.pdf)
+
+
+  MCAST website design Task 2.1 (user persona) - User Persina with the PDF Link.
+
+  - PDF Link - [User Persona.pdf](https://github.com/user-attachments/files/21204383/User.Persona.pdf)
+
+
+
 MCAST website design Task 2.2 (the style guide) - Style Guide with Colour Palette, Typeface, Spacing Rules, Visual Language.
 
 - PDF Link - [Style guide.pdf](https://github.com/user-attachments/files/21196962/Style.guide.pdf)
