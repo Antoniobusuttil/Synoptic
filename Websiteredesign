@@ -1,1 +1,27 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to MCAST!</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+<header>
+    <div class="top-bar">
+<img src="MCAST logo_white.png" alt="MCAST Logo" class="logo">
+<nav>
+    <ul>
+        <li><a href="#">Courses</a></li>
+        <li><a href="#">Apply Now</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+</nav>
+<div class="menu-icon">☰</div>
+    </div>
+</header>
+
+</body>
+</html>
